@@ -205,7 +205,7 @@ header .barraNavegacion .ul .li .link:hover {
   height: 100%;
   object-fit: cover;
   z-index: 0;
-  opacity: 0.3;
+  opacity: .3;
   filter: brightness(0.5);
 }
 .mw3-module.has-video .mw3-wrap {
